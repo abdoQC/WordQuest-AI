@@ -48,4 +48,4 @@ Add screenshots here after running the game:
 
 ## Authors
 
-Bishoy Nabil and Emad Shokry
+Abdelrahman Ehab, Bishoy Nabil, and Emad Shokry
